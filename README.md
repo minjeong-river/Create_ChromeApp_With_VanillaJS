@@ -34,15 +34,15 @@
 
 ### 3. JAVASCRIPT ON THE BROWSER
 
-- [ ] 3.0 The Document Object (08:14)
-- [ ] 3.1 HTML in Javascript (10:31)
-- [ ] 3.2 Searching For Elements (12:23)
-- [ ] 3.3 Events (12:38)
-- [ ] 3.4 Events part Two (08:31)
-- [ ] 3.5 More Events (09:48)
-- [ ] 3.6 CSS in Javascript (06:51)
-- [ ] 3.7 CSS in Javascript part Two (09:34)
-- [ ] 3.8 CSS in Javascript part Three (07:57)
+- [X] 3.0 The Document Object (08:14)
+- [X] 3.1 HTML in Javascript (10:31)
+- [X] 3.2 Searching For Elements (12:23)
+- [X] 3.3 Events (12:38)
+- [X] 3.4 Events part Two (08:31)
+- [X] 3.5 More Events (09:48)
+- [X] 3.6 CSS in Javascript (06:51)
+- [X] 3.7 CSS in Javascript part Two (09:34)
+- [X] 3.8 CSS in Javascript part Three (07:57)
 
 ### 4. LOGIN
 - [ ] 4.0 Input Values (09:48)
