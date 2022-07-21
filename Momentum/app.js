@@ -1,15 +1,35 @@
-let body = document.querySelector("body");
-let title = document.querySelector(".title");
+let h1 = document.querySelector(".title");
 
 function mouseEnter() {
-    title.innerHTML = "Mouse is here! 😊";
-    body.style.background = "#ffe0de";
+    h1.innerHTML = "Mouse is here! 😊";
+    document.body.style.background = "#ffe0de";
 }
 
 function mouseLeave() {
-    title.innerHTML = "Mouse is gone! 😂";
-    body.style.background = "#e0f4fe";
+    h1.innerHTML = "Mouse is gone! 😂";
+    document.body.style.background = "#e0f4fe";
 }
 
-title.addEventListener("mouseenter", mouseEnter);
-title.addEventListener("mouseleave", mouseLeave);
+function handleWindowResize() {
+    document.body.style.backgroundColor = "tomato";
+}
+
+function handleWindowCopy() {
+    alert("copier!");
+}
+
+function handleWindowOffline() {
+    alert("SOS no WIFI!");
+}
+
+function handleWindowOnline() {
+    alert("ALL GOOD!");
+}
+
+h1.addEventListener("mouseenter", mouseEnter);
+h1.addEventListener("mouseleave", mouseLeave);
+
+window.addEventListener("resize", handleWindowResize);
+window.addEventListener("copy", handleWindowCopy);
+window.addEventListener("offline", handleWindowOffline);
+window.addEventListener("online", handleWindowOnline);
