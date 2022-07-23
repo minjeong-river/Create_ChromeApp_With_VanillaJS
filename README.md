@@ -45,14 +45,14 @@
 - [X] 3.8 CSS in Javascript part Three (07:57)
 
 ### 4. LOGIN
-- [ ] 4.0 Input Values (09:48)
-- [ ] 4.1 Form Submission (08:38)
-- [ ] 4.2 Events (10:56)
-- [ ] 4.3 Events part Two (08:08)
-- [ ] 4.4 Getting Username (11:12)
-- [ ] 4.5 Saving Username (07:35)
-- [ ] 4.6 Loading Username (10:07)
-- [ ] 4.7 Super Recap (13:58)
+- [X] 4.0 Input Values (09:48)
+- [X] 4.1 Form Submission (08:38)
+- [X] 4.2 Events (10:56)
+- [X] 4.3 Events part Two (08:08)
+- [X] 4.4 Getting Username (11:12)
+- [X] 4.5 Saving Username (07:35)
+- [X] 4.6 Loading Username (10:07)
+- [X] 4.7 Super Recap (13:58)
 
 ### 5. CLOCK
 - [ ] 5.0 Intervals (05:37)
