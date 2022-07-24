@@ -55,15 +55,15 @@
 - [X] 4.7 Super Recap (13:58)
 
 ### 5. CLOCK
-- [ ] 5.0 Intervals (05:37)
-- [ ] 5.1 Timeouts and Dates (08:46)
-- [ ] 5.2 PadStart (07:42)
-- [ ] 5.3 Recap (04:44)
+- [X] 5.0 Intervals (05:37)
+- [X] 5.1 Timeouts and Dates (08:46)
+- [X] 5.2 PadStart (07:42)
+- [X] 5.3 Recap (04:44)
 
 ### 6. QUOTES AND BACKGROUND
-- [ ] 6.0 Quotes (10:14)
-- [ ] 6.1 Background (08:45)
-- [ ] 6.2 Recap (05:15)
+- [X] 6.0 Quotes (10:14)
+- [X] 6.1 Background (08:45)
+- [X] 6.2 Recap (05:15)
 
 ### 7. TO DO LIST
 - [ ] 7.0 Setup (07:55)
