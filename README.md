@@ -66,15 +66,15 @@
 - [X] 6.2 Recap (05:15)
 
 ### 7. TO DO LIST
-- [ ] 7.0 Setup (07:55)
-- [ ] 7.1 Adding ToDos (07:00)
-- [ ] 7.2 Deleting To Dos (09:54)
-- [ ] 7.3 Saving To Dos (07:26)
-- [ ] 7.4 Loading To Dos part One (11:19)
-- [ ] 7.5 Loading To Dos part Two (08:28)
-- [ ] 7.6 Deleting To Dos part One (10:23)
-- [ ] 7.7 Deleting To Dos part Two (13:04)
-- [ ] 7.8 Deleting To Dos part Three (05:32)
+- [X] 7.0 Setup (07:55)
+- [X] 7.1 Adding ToDos (07:00)
+- [X] 7.2 Deleting To Dos (09:54)
+- [X] 7.3 Saving To Dos (07:26)
+- [X] 7.4 Loading To Dos part One (11:19)
+- [X] 7.5 Loading To Dos part Two (08:28)
+- [X] 7.6 Deleting To Dos part One (10:23)
+- [X] 7.7 Deleting To Dos part Two (13:04)
+- [X] 7.8 Deleting To Dos part Three (05:32)
 
 ### 8. WEATHER
 - [ ] 8.0 Geolocation (07:27)
