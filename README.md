@@ -77,6 +77,6 @@
 - [X] 7.8 Deleting To Dos part Three (05:32)
 
 ### 8. WEATHER
-- [ ] 8.0 Geolocation (07:27)
-- [ ] 8.1 Weather API (14:13)
-- [ ] 8.2 Conclusions (02:52)
+- [X] 8.0 Geolocation (07:27)
+- [X] 8.1 Weather API (14:13)
+- [X] 8.2 Conclusions (02:52)
